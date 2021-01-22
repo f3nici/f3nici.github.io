@@ -15,4 +15,4 @@ Coming Soon!
 [1337x](https://1337x.buzz/)  
 # Other
 [r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)  
-[The Data Crypt/ Pirate Haven Discord](https://discord.com/invite/JWqrdfN9Y8)  
+[The Data Crypt / Pirate Haven Discord](https://discord.com/invite/JWqrdfN9Y8)  
