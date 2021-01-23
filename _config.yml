@@ -9,7 +9,7 @@ name: fenici
 description: Privacy and Piracy
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/gam3less/gam3less.github.io/master/images/Logo.png
+avatar: https://raw.githubusercontent.com/f3nici/f3nici.github.io/master/images/Logo.png
 
 #
 # Flags below are optional
@@ -38,7 +38,7 @@ disqus:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://gam3less.github.io/
+url: https://f3nici.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
