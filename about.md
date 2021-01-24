@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am a 16 year old male who loves to pirate, I have been pirating since  I was 12.  
-I also love privacy and like to stay invisible online.  
+## About me
+I am a 16 year old who love technology. I have been tinkering with computers since I was 7 years old. I was taught how to pirate movies when I was 12 and have been ever since. I believe that everyone has the right to stay invisible online and privacy should be set by default.  
 
+## About this website
+This website has zero tracking and only loads things from imgur and github.  
 
 ### Contact me
 Discord: fenici#9772  
