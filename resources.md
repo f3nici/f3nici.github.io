@@ -17,3 +17,4 @@ Here is a list of links and helpful sites. If you would like to help out there i
 [r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)  
 [The Data Crypt / Pirate Haven Discord](https://discord.com/invite/JWqrdfN9Y8)  
 [Privacy Tools](https://privacytools.io/)  
+[AniMunu (Free anime, no ads)](https://animumu.ga/)
