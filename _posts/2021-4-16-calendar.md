@@ -2,29 +2,29 @@
 layout: post
 title: How to share google calendar events.
 ---
-# This is a guide to sharing events on google calendar.
+
 
 ## Step one  
 ### Click On the event
-![alt text](https://i.imgur.com/vGuiiJw.png)  
+![alt text](https://i.imgur.com/D8OjkwG.png)  
 
 ## Step Two  
 ### Click on the pencil icon  
-![alt text](https://i.imgur.com/o0U6Vsa.png)  
+![alt text](https://i.imgur.com/JWuvauW.png)  
 
 ## Step Three  
 ### Click on 'Add Guests'
-![alt text](https://i.imgur.com/cc60D9J.png)  
+![alt text](https://i.imgur.com/GhwS5Ch.png)  
 
 ## Step Four  
 ### Type in the persons name or email and Press the 'Enter' Key on the keyboard.
-![alt text](https://i.imgur.com/Pd99dlx.png)  
+![alt text](https://i.imgur.com/vsRb0rl.png)  
 
 ### It should look like this:
-![alt text](https://i.imgur.com/TOL0BUv.png)  
+![alt text](https://i.imgur.com/I0xOho1.png)  
 
 ## Step Five  
 ### Click on 'Save'
-![alt text](https://i.imgur.com/vZzJ91o.png)  
+![alt text](https://i.imgur.com/k6IBgWH.png)  
 
 ## All Done!
