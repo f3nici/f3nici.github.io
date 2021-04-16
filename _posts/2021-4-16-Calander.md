@@ -2,7 +2,7 @@
 layout: post
 title: How to share google calendar events.
 ---
-
+# This is a guide to sharing events on google calendar.
 
 ## Step one  
 ### Click On the event
