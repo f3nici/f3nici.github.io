@@ -1,34 +1,63 @@
 ---
 layout: post
-title: How to share google calendar events.
+title: Piracy for Noobs
 ---
 
-![alt text](https://www.amocrm.com/static/images/pages/integrations/logo/google-calendar.png "Picture from Google")  
-# A guide on how to share google calendar events.  
+![alt text](https://i.imgur.com/5EW9O8o.png "Picture from www.uscybersecurity.net")
+# A complete guide to piracy for beginners.
 
-## Step one  
+## Contents
+ - [VPN](#vpn)  
+    - [How to get a VPN](#HowVPN)
+ - [Torrent Client](#client)
+ - [How to Torrent](#torrent)
+ - [Seeding](#seeding)
+ - [Thanks](#thanks)  
 
-### Click On the event  
-![alt text](https://i.imgur.com/D8OjkwG.png)  
+## Why should I use a VPN? <a name="VPN"></a>
+A vpn will hide your IP from other people torrenting the same file, it is essential.  
+### How do I get a vpn? <a name="HowVPN"></a>
+I am just going to copy and paste the same infomation from my [Privacy Guide](http://f3nici.xyz/Privacy/)  
 
-## Step Two  
-### Click on the pencil icon  
-![alt text](https://i.imgur.com/JWuvauW.png)  
+Most VPNS are fine, however [NordVPN](https://nordvpn.com/) is easy to set up and I will show you how to get it for free.  
 
-## Step Three  
-### Click on 'Add Guests'  
-![alt text](https://i.imgur.com/GhwS5Ch.png)  
+#### How to get a NordVPN account for free.
+**WARNING** These accounts are stolen, however are useful **WARNING**  
 
-## Step Four  
-### Type in the persons name or email and Press the 'Enter' Key on the keyboard.  
-![alt text](https://i.imgur.com/vsRb0rl.png)  
+It's pretty easy, just go to [H-gen](https://www.h-gen.xyz/) and choose NordVPN.  
+![alt text](https://i.imgur.com/lwKQs4A.png)  
+1) Press Generate.  
+2) Scroll down and press Free Access  
+![alt text](https://i.imgur.com/d3Txoqh.png)  
+3) Copy and paste your account into NordVPN the format is User:Pass  
+4) Here is the account I generated: ajvarela@bak.rr.com:Austin0822  
 
-### It should look like this:  
-![alt text](https://i.imgur.com/I0xOho1.png)  
+## Torrent Client <a name="client"></a>
+For this guild I will be using [BiglyBT](https://www.biglybt.com/) (Formally Vuze) because its my client of choice, however many people use [qBittorrent](https://www.qbittorrent.org)  
 
-## Step Five  
-### Click on 'Save'  
-![alt text](https://i.imgur.com/k6IBgWH.png)  
+First download BiglyBT [Click here](https://files.biglybt.com/installer/BiglyBT_Stub_Installer.exe)  
+Next run through the installer until you have it installed on your computer.  
+Open it and you should be greeted with a menu like this:  
+![alt text](https://i.imgur.com/s5r02la.png)  
+Click on continue and wait for it to finish.  
+Click on apply.  
+Click on Tools then Options:  
+![alt text](https://i.imgur.com/ZzzQ4Zc.png)  
+Go to files and change the defult directory to your location of downloads.  
+![alt text](https://i.imgur.com/zUPOjdY.png)  
+Press save and exit the options.  
+## How to torrent <a name="torrent"></a>
+Go to [Solid Torrents](https://solidtorrents.net/) Or [1337x](https://www.1377x.to/)  
+Find a movie or TV show you want  
+Click on it and then press the magnet button:  
+![alt text](https://i.imgur.com/SsAPyNx.png)  
+Or  
+![alt text](https://i.imgur.com/3jkuwMX.png)  
+The torrent should then start downloading to your location that you set previously.  
+## Seeding <a name="seeding"></a>
+> Many newbies to piracy won’t know what seeding is and why it’s so praised in the community. Torrents are used instead of the file being downloaded from 1 source(ddl). When someone releases a torrent it will rely on you who has the file to help share that file via p2p (peer 2 peer). This is how corporations can’t get rid of torrents as there is no centralized source. However, if a torrent has no seeders, you cannot download that torrent as there is no one hosting that file anymore, the more seeders there are the faster a torrent will be (to a certain extent).  
+
+From Dimitri/Asphxia and the Pirate Haven Team  
 
 ## Thanks <a name="thanks"></a>
 Thanks for reading my post, I hope I helped you and if you need to contact me [Click here](http://fenici.xyz/about/)
