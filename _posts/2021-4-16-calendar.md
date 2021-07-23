@@ -3,11 +3,19 @@ layout: post
 title: How to share google calendar events.
 ---
 
-![alt text](https://www.amocrm.com/static/images/pages/integrations/logo/google-calendar.png "Picture from Google")  
-# A guide on how to share google calendar events.  
+![alt text](https://i.imgur.com/5EW9O8o.png "Picture from www.uscybersecurity.net")
+# A complete guide to piracy for beginners.
+
+## Contents
+ - [VPN](#vpn)  
+    - [How to get a VPN](#HowVPN)
+ - [Torrent Client](#client)
+ - [How to Torrent](#torrent)
+ - [Seeding](#seeding)
+ - [Thanks](#thanks)  
 
 ## Step one  
-  
+
 ### Click On the event  
 ![alt text](https://i.imgur.com/D8OjkwG.png)  
 
