@@ -3,8 +3,8 @@ layout: post
 title: How to share google calendar events.
 ---
 
-![alt text](https://i.imgur.com/V2bPmOg.png "Picture from Google")
-# A guide on how to share google calendar events.
+![alt text](https://i.imgur.com/V2bPmOg.png "Picture from Google")  
+# A guide on how to share google calendar events.  
 
 ## Step one  
 ### Click On the event
